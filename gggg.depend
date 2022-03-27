@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1590964538 source:d:\gggg\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<limits>
+	<iomanip>
+	<stdlib.h>
+
+1590964538 source:d:\student system\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<limits>
+	<iomanip>
+	<stdlib.h>
+
